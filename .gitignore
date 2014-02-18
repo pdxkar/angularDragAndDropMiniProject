@@ -1,9 +1,7 @@
 # Eclipse
 .classpath
 .project
-.settings/*.*
-.settings/org.eclipse.wst.jsdt.ui.superType.container
-*.superType.name
+.settings/
 
 # Intellij
 .idea/
